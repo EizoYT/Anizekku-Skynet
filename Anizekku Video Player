@@ -11,7 +11,7 @@ let get=()=>{
 let getbase=()=>{
     let ply = [];
   /*
-    ply.videourl = `https://www.googleapis.com/drive/v3/files/${getIdFromUrl(s('videourl').value) }?alt=media&key=${apikey}`;
+    ply.videourl = `https://siasky.net/${getIdFromUrl(s('videourl').value) }?alt=media&key=${apikey}`;
 
   
   
